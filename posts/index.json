@@ -3,7 +3,8 @@
     "id": "20131120.socket-in-java",
     "title": "Socket in Java",
     "tags": ["Java", "Socket"],
-    "create_time": "2013-11-20 21:00"
+    "create_time": "2013-11-20 21:00",
+    "summary": "一个Java socket的小例子，包括了ServerSocket的创建，Client端和Server端的通信，以及利用Thread处理Client的连接。"
   },
   {
     "id": "20131117.setup-my-blog",
