@@ -10,6 +10,7 @@
 <link rel="stylesheet" type="text/css" href="stylesheets/blogstyle.css" />
 <link rel="stylesheet" type="text/css" href="javascripts/highlight/styles/googlecode.css" />
 
+<script src="http://sftxy.disqus.com/embed.js"></script>
 <script src="javascripts/marked/marked.js"></script>
 <script src="javascripts/highlight/highlight.pack.js"></script>
 <script src="javascripts/angular/angular.js"></script>
@@ -35,6 +36,9 @@
 
   <div id="content-wrapper">
     <div ng-view class="inner clearfix view-frame">
+    </div>
+    <div class="inner clearfix">
+      <div id="disqus_thread"></div>
     </div>
   </div>
 
