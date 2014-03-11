@@ -1,5 +1,12 @@
 [
   {
+    "id": "20131228.redis-in-realtime-statistics",
+    "title": "Using Redis in Real-time Statistics Application",
+    "tags": ["Redis", "Real-time Statistics"],
+    "create_time": "2013-12-28 22:45",
+    "summary": "利用Redis做实时统计分析的例子已屡见不鲜，本文是利用其Sorted-Set数据结构，实现实时统计当前在线用户数的例子。"
+  },
+  {
     "id": "20131120.socket-in-java",
     "title": "Socket in Java",
     "tags": ["Java", "Socket"],
