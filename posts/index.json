@@ -1,22 +1,27 @@
 [
   {
+    "id": "20140107.this-is-search-engine-note-02",
+    "title": "《这就是搜索引擎》读书笔记02",
+    "tags": ["Search Engine", "Crawler"],
+    "create_time": "2014-01-07 20:38",
+    "summary": "搜索引擎里关于网络爬虫的知识。"
+  }, {
+    "id": "20140106.this-is-search-engine-note-01",
+    "title": "《这就是搜索引擎》读书笔记01",
+    "tags": ["Search Engine", "Search"],
+    "create_time": "2014-01-06 20:05",
+    "summary": "个人觉着搜索还是一个很重要的发展方向，也一直想往这方面研究。最近开始看《这就是搜索引擎》，一本关于搜索引擎的入门书籍，在此做个笔记，一章一篇。"
+  }, {
     "id": "20131228.redis-in-realtime-statistics",
     "title": "Using Redis in Real-time Statistics Application",
     "tags": ["Redis", "Real-time Statistics"],
     "create_time": "2013-12-28 22:45",
     "summary": "利用Redis做实时统计分析的例子已屡见不鲜，本文是利用其Sorted-Set数据结构，实现实时统计当前在线用户数的例子。"
-  },
-  {
+  }, {
     "id": "20131120.socket-in-java",
     "title": "Socket in Java",
     "tags": ["Java", "Socket"],
     "create_time": "2013-11-20 21:00",
     "summary": "一个Java socket的小例子，包括了ServerSocket的创建，Client端和Server端的通信，以及利用Thread处理Client的连接。"
-  },
-  {
-    "id": "20131117.setup-my-blog",
-    "title": "Set up my blog in GitHub",
-    "tags": ["GitHub", "blog"],
-    "create_time": "2013-11-17 21:03"
   }
 ]

@@ -52,7 +52,9 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
+em {
+  font-weight: bold;
+}
 /* LAYOUT STYLES */
 body {
   font-size: 15px;
