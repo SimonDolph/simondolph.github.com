@@ -1,5 +1,11 @@
 [
   {
+    "id": "20140109.this-is-search-engine-note-04",
+    "title": "《这就是搜索引擎》读书笔记04",
+    "tags": ["Search Engine", "Index Compression"],
+    "create_time": "2014-01-09 21:08",
+    "summary": "搜索引擎里关于索引压缩的知识。"
+  }, {
     "id": "20140108.this-is-search-engine-note-03",
     "title": "《这就是搜索引擎》读书笔记03",
     "tags": ["Search Engine", "Index"],
