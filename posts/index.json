@@ -30,8 +30,8 @@
     "create_time": "2013-12-28 22:45",
     "summary": "利用Redis做实时统计分析的例子已屡见不鲜，本文是利用其Sorted-Set数据结构，实现实时统计当前在线用户数的例子。"
   }, {
-    "id": "20131120.socket-in-java",
-    "title": "Socket in Java",
+    "id": "20131120.java-socket-example",
+    "title": "Java Socket Example",
     "tags": ["Java", "Socket"],
     "create_time": "2013-11-20 21:00",
     "summary": "一个Java socket的小例子，包括了ServerSocket的创建，Client端和Server端的通信，以及利用Thread处理Client的连接。"
